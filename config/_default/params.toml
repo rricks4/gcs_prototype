@@ -1,0 +1,26 @@
+showBlog = true
+mainSections = ['news','contract-vehicles']
+googleFonts = true
+
+[logo]
+main = 'img/logo.png'
+alt = 'Global Commerce and Services Logo'
+
+[site]
+name = 'Global Commerce and Services'
+
+[icon]
+bootstrap = true
+
+[share]
+enable = true
+
+[[contact]]
+name = "contact@example.com"
+icon = "fa-solid fa-envelope"
+link = "mailto:contact@example.com"
+
+[[contact]]
+name = "+1 234 567 890"
+icon = "fa-solid fa-phone"
+link = "tel:+1234567890"

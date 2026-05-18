@@ -1,0 +1,39 @@
+Watching for changes in C:/Users/runel/Documents/GitHub/gcs_prototype/archetypes, C:/Users/runel/Documents/GitHub/gcs_prototype/assets/images, C:/Users/runel/Documents/GitHub/gcs_prototype/content/{about,capabilities,careers,contract-vehicles,news}, C:/Users/runel/Documents/GitHub/gcs_prototype/data, C:/Users/runel/Documents/GitHub/gcs_prototype/i18n, C:/Users/runel/Documents/GitHub/gcs_prototype/layouts/{_default,partials}, C:/Users/runel/Documents/GitHub/gcs_prototype/package.json, C:/Users/runel/Documents/GitHub/gcs_prototype/static/{img,slide}, C:/Users/runel/Documents/GitHub/gcs_prototype/themes/tella/archetypes, C:/Users/runel/Documents/GitHub/gcs_prototype/themes/tella/assets/css, ... and 2 more
+Watching for config changes in C:\Users\runel\Documents\GitHub\gcs_prototype\config\_default
+Start building sites … 
+hugo v0.161.1-ea8f66a7ce988664dcc84c052fc96757042e2e4a+extended+withdeploy windows/amd64 BuildDate=2026-04-29T13:56:01Z VendorInfo=gohugoio
+
+
+                  │ EN 
+──────────────────┼────
+ Pages            │ 31 
+ Paginator pages  │  1 
+ Non-page files   │  0 
+ Static files     │ 34 
+ Processed images │  0 
+ Aliases          │  4 
+ Cleaned          │  0 
+
+Built in 371 ms
+Environment: "development"
+Serving pages from disk
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1314/gcs_prototype/ (bind address 127.0.0.1) 
+Press Ctrl+C to stop
+
+Change detected, rebuilding site (#1).
+2026-05-18 08:21:16.247 -0500
+Source changed /contract-vehicles/gcs-achieves-recertification.md
+Source changed /contract-vehicles/gcs-awarded-gsa-oasis-contract.md
+Source changed /contract-vehicles
+Web Server is available at http://localhost:1314/gcs_prototype/ (bind address 127.0.0.1)
+Total in 12 ms
+
+Change detected, rebuilding site (#2).
+2026-05-18 08:21:16.749 -0500
+Source changed /contract-vehicles/gsa-mda-shield-contract.md
+Source changed /contract-vehicles/mentor-protege-joint-venture.md
+Source changed /contract-vehicles/navy-marine-corps-procurement-conference.md
+Source changed /contract-vehicles
+Web Server is available at http://localhost:1314/gcs_prototype/ (bind address 127.0.0.1)
+Total in 20 ms

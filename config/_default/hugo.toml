@@ -1,0 +1,4 @@
+baseURL = 'https://rricks4.github.io/gcs_prototype/'
+locale = 'en-us'
+title = 'Global Commerse and Services'
+theme = 'tella'
