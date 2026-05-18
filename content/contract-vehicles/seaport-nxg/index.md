@@ -2,7 +2,6 @@
 title: "Seaport Next Generation (NxG)"
 date: 2025-12-18T05:47:26-05:00
 image: "img/default.jpg"
-draft: true
 weight: 100
 author: ""
 ---

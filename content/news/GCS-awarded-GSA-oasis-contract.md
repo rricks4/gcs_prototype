@@ -1,6 +1,5 @@
 +++
 date = '2025-07-18T05:51:43-05:00'
-draft = true
 title = 'GCS Awarded GSA OASIS+ Contract in Management & Advisory Domain'
 +++
 

@@ -1,6 +1,5 @@
 +++
 date = '2026-05-18T06:08:09-05:00'
-draft = true
 title = 'Capabilities'
 +++
 

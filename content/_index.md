@@ -2,7 +2,6 @@
 title: "Our Services"
 description: "Professional consulting services"
 date: "2026-05-12T13:14:47-05:00"
-draft: true
 
 blocks:
   - block: hero-breadcrumb

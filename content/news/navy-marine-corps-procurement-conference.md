@@ -2,7 +2,6 @@
 title: "Navy & Marine Corps Procurement Conference"
 date: 2026-05-18T05:45:01-05:00
 image: "img/default.jpg"
-draft: true
 weight: 100
 author: ""
 ---

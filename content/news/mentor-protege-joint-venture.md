@@ -2,7 +2,6 @@
 title: "GCS and Nationwide IT Services Launch Mentor-Protégé Joint Venture: GCNIS"
 date: 2025-09-18T05:49:10-05:00
 image: "img/default.jpg"
-draft: true
 weight: 100
 author: ""
 ---
