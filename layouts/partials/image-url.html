@@ -1,0 +1,20 @@
+{{- $path := .path -}}
+{{- $absolute := .absolute | default false -}}
+{{- $url := "" -}}
+{{- with $path -}}
+  {{- $assetPath := strings.TrimPrefix "/" . -}}
+  {{- with resources.Get $assetPath -}}
+    {{- if $absolute -}}
+      {{- $url = .Permalink -}}
+    {{- else -}}
+      {{- $url = .RelPermalink -}}
+    {{- end -}}
+  {{- else -}}
+    {{- if $absolute -}}
+      {{- $url = $path | absURL -}}
+    {{- else -}}
+      {{- $url = $path | relURL -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $url -}}

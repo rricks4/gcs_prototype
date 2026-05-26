@@ -1,7 +1,7 @@
 ---
-title: "December 2025 – GSA Awarded Missile Defense Agency (MDA) Scalable Homeland Innovative Enterprise Layered Defense (SHIELD) Contract"
+title: "GSA Awarded Missile Defense Agency (MDA) Scalable Homeland Innovative Enterprise Layered Defense (SHIELD) Contract"
 date: 2025-12-18T05:48:25-05:00
-image: "img/default.jpg"
+image: "img/thaad-launch-1016475-4050468261.jpg"
 weight: 100
 author: ""
 ---

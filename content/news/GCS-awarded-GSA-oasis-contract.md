@@ -1,7 +1,8 @@
-+++
-date = '2025-07-18T05:51:43-05:00'
-title = 'GCS Awarded GSA OASIS+ Contract in Management & Advisory Domain'
-+++
+---
+date: "2025-07-18T05:51:43-05:00"
+title: "GCS Awarded GSA OASIS+ Contract in Management & Advisory Domain"
+image: "img/heladodementa-technology-1587673.jpg"
+---
 
 GCS is proud to announce it has been awarded a contract for the General Services Administration (GSA) One Acquisition Solution for Integrated Services Plus (OASIS+) contract vehicle in the Management & Advisory domain under both the HUBZone and Women-Owned Small Business (WOSB) tracks.
 OASIS+ is GSA’s premier governmentwide, multi-award IDIQ contract designed to streamline the acquisition of complex professional services across federal agencies. GCS’s selection reflects the company’s proven expertise in delivering high-quality management consulting, program and project management, strategic planning, and operational support services to mission-critical government programs.

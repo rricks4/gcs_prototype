@@ -1,7 +1,7 @@
 ---
 title: "Baltimore County Information Technology Consulting and Technical Services"
 date: 2025-12-18T05:47:26-05:00
-image: "img/default.jpg"
+image: "logos/baltimore-county-banner.png"
 weight: 100
 author: ""
 ---

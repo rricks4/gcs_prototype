@@ -10,3 +10,7 @@ https://gohugo.io/
 
 Uses the Tella theme.
 https://github.com/opera7133/tella
+
+## Not yet implemented:
+- Optomized images & assets (non-webp formats)
+- Branded favicons & other icons

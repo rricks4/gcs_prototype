@@ -3,7 +3,7 @@ mainSections = ['news','contract-vehicles']
 googleFonts = true
 
 [logo]
-main = 'img/logo.png'
+main = 'logos/logo.png'
 alt = 'Global Commerce and Services Logo'
 
 [site]

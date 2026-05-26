@@ -1,7 +1,7 @@
 ---
 title: "GSA STARS III"
 date: 2025-12-18T05:47:26-05:00
-image: "img/default.jpg"
+image: "logos/GSA-3-stars-1435597835.png"
 weight: 100
 author: ""
 ---

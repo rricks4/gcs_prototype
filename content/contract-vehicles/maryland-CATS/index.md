@@ -1,7 +1,7 @@
 ---
 title: "Maryland Consulting and Technical Services Plus"
 date: 2025-12-18T05:47:26-05:00
-image: "img/default.jpg"
+image: "logos/content_10020201207152648-3606266224.png"
 weight: 100
 author: ""
 ---

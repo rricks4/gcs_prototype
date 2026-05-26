@@ -1,7 +1,7 @@
 ---
 title: "GCS Achieves ISO 9001:2015 Recertification"
 date: 2025-12-18T05:47:26-05:00
-image: "img/default.jpg"
+image: "img/heladodementa-technology-1587673.jpg"
 weight: 100
 author: ""
 ---

@@ -11,6 +11,11 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+name = "Home"
+url = "/"
+weight = 5
+
+[[main]]
 name = "About"
 pageRef = "about"
 weight = 10

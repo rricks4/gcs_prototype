@@ -1,7 +1,13 @@
 <div class="w-full px-2 lg:max-w-full lg:flex mt-3 lg:px-0 duration-500 hover:-translate-y-1 hover:shadow-md">
   {{ if .Params.image }}
+  {{ $image := .Params.image }}
+  {{ $assetPath := strings.TrimPrefix "/" $image }}
+  {{ $src := partial "image-url.html" (dict "path" $image) }}
+  {{ with resources.Get $assetPath }}
+    {{ $src = (.Fit "352x198 webp q85").RelPermalink }}
+  {{ end }}
   <img id="thumb" alt="{{.Title}}" class="aspect-video object-cover w-auto lg:h-44"
-    src="{{ .Params.image | relURL }}" />
+    src="{{ $src }}" />
   {{ else }}
   <img id="thumb" alt="{{.Title}}" class="aspect-video object-cover w-auto lg:h-44"
     src='{{ "/img/default.jpg" | relURL }}'>
